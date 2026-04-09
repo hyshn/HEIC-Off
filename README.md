@@ -2,6 +2,8 @@
 
 A lightweight Windows tool to batch convert HEIC images to JPG quickly and easily.
 
+![HEIC-Off Banner](screenshot.png)
+
 ## ✨ Features
 
 - 📁 Batch convert all HEIC files in a folder
